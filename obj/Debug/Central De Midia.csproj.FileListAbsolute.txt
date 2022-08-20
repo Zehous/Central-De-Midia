@@ -1,0 +1,15 @@
+C:\Users\Zehous\Desktop\C#\Windows Form\Central De Midia\obj\Debug\Central De Midia.csproj.AssemblyReference.cache
+C:\Users\Zehous\Desktop\C#\Windows Form\Central De Midia\obj\Debug\Central De Midia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zehous\Desktop\C#\Windows Form\Central De Midia\obj\Debug\Central_De_Midia.Main.Interfaces.Janela.resources
+C:\Users\Zehous\Desktop\C#\Windows Form\Central De Midia\obj\Debug\Central_De_Midia.Properties.Resources.resources
+C:\Users\Zehous\Desktop\C#\Windows Form\Central De Midia\obj\Debug\Central De Midia.csproj.GenerateResource.cache
+C:\Users\Zehous\Desktop\C#\Windows Form\Central De Midia\obj\Debug\Central De Midia.csproj.CoreCompileInputs.cache
+C:\Users\Zehous\Desktop\C#\Windows Form\Central De Midia\bin\Debug\Central De Midia.exe.config
+C:\Users\Zehous\Desktop\C#\Windows Form\Central De Midia\bin\Debug\Central De Midia.exe
+C:\Users\Zehous\Desktop\C#\Windows Form\Central De Midia\bin\Debug\Central De Midia.pdb
+C:\Users\Zehous\Desktop\C#\Windows Form\Central De Midia\obj\Debug\Central De Midia.exe
+C:\Users\Zehous\Desktop\C#\Windows Form\Central De Midia\obj\Debug\Central De Midia.pdb
+C:\Users\Zehous\Desktop\C#\Windows Form\Central De Midia\obj\Debug\Central_De_Midia.Main.Contents.Mangas.MangasMenu.resources
+C:\Users\Zehous\Desktop\C#\Windows Form\Central De Midia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zehous\Desktop\C#\Windows Form\Central De Midia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zehous\Desktop\C#\Windows Form\Central De Midia\obj\Debug\Central De Midia.csproj.CopyComplete
